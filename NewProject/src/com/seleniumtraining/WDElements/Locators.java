@@ -11,6 +11,7 @@ public class Locators {
 		WebDriver driver = new FirefoxDriver();
 		driver.get("https://www.eenadupellipandiri.net/");
 		System.out.println("Testing for GIT Hub");
+		System.out.println("changes Reflected to GIT HUB Server");
 	}
 
 }
