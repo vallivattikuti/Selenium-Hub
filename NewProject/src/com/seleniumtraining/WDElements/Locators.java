@@ -10,6 +10,7 @@ public class Locators {
 		System.setProperty("webdriver.firefox.driver", System.getProperty("user.dir")+"//Drivers//geckodriver.exe");
 		WebDriver driver = new FirefoxDriver();
 		driver.get("https://www.eenadupellipandiri.net/");
+		System.out.println("Testing for GIT Hub");
 	}
 
 }
